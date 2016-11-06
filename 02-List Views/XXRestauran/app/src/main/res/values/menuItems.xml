@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dish">
+        <item>hot dog</item>
+        <item>hot dog1</item>
+        <item>hot dog2</item>
+        <item>hot dog3</item>
+        <item>hot dog4</item>
+        <item>hot dog5</item>
+        <item>hot dog6</item>
+        <item>hot dog6</item>
+        <item>hot dog6</item>
+        <item>hot dog6</item>
+        <item>hot dog6</item>
+        <item>hot dog6</item>
+        <item>hot dog6</item>
+        <item>hot dog6</item>
+        <item>hot dog6</item>
+        <item>hot dog6</item>
+    </string-array>
+</resources>
